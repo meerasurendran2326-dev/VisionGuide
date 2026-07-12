@@ -1,1 +1,0 @@
-"""VisionGuide AI backend package."""

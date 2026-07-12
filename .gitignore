@@ -1,23 +1,19 @@
-# Python
+# Python cache
 __pycache__/
-*.py[cod]
+*.pyc
 
-# Virtual environments
+# Virtual environment
 venv/
 .venv/
+
+# VS Code settings
+.vscode/
 
 # Environment variables
 .env
 
-# Firebase credentials
-serviceAccountKey.json
-
-# Firebase logs
-firebase-debug.log
-*.log
-
-# VS Code
-.vscode/
+# Output files
+output/
 
 # OS files
 .DS_Store
